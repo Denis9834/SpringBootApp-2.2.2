@@ -1,0 +1,18 @@
+#spring:
+#  datasource:
+#    driver-class-name: org.postgresql.Driver
+#    url: jdbc:postgresql://localhost:5432/cars_springBoot
+#    username: postgres
+#    password: postgre
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#
+#app:
+#  maxCars: 5
+#  sortByField:
+#    - id
+#    - make
+#    - model
+#    - series
